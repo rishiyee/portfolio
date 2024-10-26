@@ -1,0 +1,80 @@
+[
+  {
+    "count": "01",
+    "serviceName": "Product Design",
+    "serviceDetails": "Specializing in user-centered product design, creating visually appealing concepts through research and prototyping, ensuring functionality, aesthetic appeal, and manufacturability for market success.",
+    "subServices": [
+      "User research and persona development",
+      "Wireframe and prototyping",
+      "Usability testing and analysis",
+      "Interface design for web and mobile applications"
+    ]
+  },
+  {
+    "count": "02",
+    "serviceName": "Web Design",
+    "serviceDetails": "Offering custom web design services that reflect brand identity, enhance user experience through responsive design, intuitive navigation, and SEO optimization for improved online visibility.",
+    "subServices": [
+      "Custom website design reflecting brand identity",
+      "Responsive design for optimal performance across devices",
+      "Integration of user-friendly navigation and layout",
+      "SEO-optimized design to enhance visibility"
+    ]
+  },
+  {
+    "count": "03",
+    "serviceName": "App Design",
+    "serviceDetails": "Crafting mobile application designs with engaging user interfaces and experiences, focusing on usability, prototyping, and tailored solutions for both iOS and Android platforms.",
+    "subServices": [
+      "Mobile app design for iOS and Android platforms",
+      "Intuitive user interfaces and seamless user experiences",
+      "Interactive prototypes for client feedback",
+      "Ongoing design support and updates"
+    ]
+  },
+  {
+    "count": "04",
+    "serviceName": "Multimedia Production",
+    "serviceDetails": "Providing comprehensive multimedia production services, including portrait and product photography, promotional videos, and high-quality editing, creating captivating content for social media and digital platforms.",
+    "subServices": [
+      "Professional portrait photography",
+      "Macro photography for detailed close-ups",
+      "Product photography for e-commerce and branding",
+      "Videography services for promotional and branding videos",
+      "Video editing and post-production, including color grading",
+      "Creation of engaging multimedia content for social media and websites"
+    ]
+  },
+  {
+    "count": "05",
+    "serviceName": "Graphic Design",
+    "serviceDetails": "Creating striking graphic designs that establish strong brand identities, including logos, marketing materials, and infographics that communicate effectively and engage target audiences.",
+    "subServices": [
+      "Brand identity development, including logos and visual assets",
+      "Marketing materials such as brochures, flyers, and banners",
+      "Infographics and visual storytelling for data presentation",
+      "Social media graphics and templates"
+    ]
+  },
+  {
+    "count": "06",
+    "serviceName": "Coding and Development",
+    "serviceDetails": "Delivering front-end development services that bring designs to life through HTML, CSS, and JavaScript, integrating dynamic features while ensuring optimal performance and security.",
+    "subServices": [
+      "Front-end development using HTML, CSS, and JavaScript",
+      "Integration of interactive elements into designs",
+      "Custom coding solutions for unique design needs",
+      "Maintenance and updates for websites and applications"
+    ]
+  },
+  {
+    "count": "07",
+    "serviceName": "Consultation Services",
+    "serviceDetails": "Offering consultation services focused on enhancing user experience, developing brand strategies, conducting UX audits, and providing workshops to empower clients with design knowledge.",
+    "subServices": [
+      "UX consulting for improving existing digital products",
+      "Strategy sessions for brand identity and marketing",
+      "Workshops and training on design principles and coding basics"
+    ]
+  }
+]

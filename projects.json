@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Project Name",
+        "description": "Description for Project ",
+        "image": "Images/Mockups/Project Cover 01.jpg",
+        "caseLink": "link/to/case1",
+        "backgroundColor": "#282828"  
+      },
+      {
+        "title": "Project Name",
+        "description": "Description for Project ",
+        "image": "Images/Mockups/Project Cover 02.jpg",
+        "caseLink": "link/to/case1",
+        "backgroundColor": "#282828"  
+      },
+      {
+        "title": "Project Name",
+        "description": "Description for Project ",
+        "image": "Images/Mockups/Project Cover 03.jpg",
+        "caseLink": "link/to/case1",
+        "backgroundColor": "#282828"  
+      },
+      {
+        "title": "Project Name",
+        "description": "Description for Project ",
+        "image": "Images/Mockups/Project Cover 04.jpg",
+        "caseLink": "link/to/case1",
+        "backgroundColor": "#282828"  
+      },
+      {
+        "title": "Project Name",
+        "description": "Description for Project ",
+        "image": "Images/Mockups/Project Cover 04.jpg",
+        "caseLink": "link/to/case1",
+        "backgroundColor": "#282828"  
+      },
+      {
+        "title": "Project Name",
+        "description": "Description for Project ",
+        "image": "Images/Mockups/Project Cover 06.jpg",
+        "caseLink": "link/to/case1",
+        "backgroundColor": "#282828"  
+      }
+      
+  ]
+  
